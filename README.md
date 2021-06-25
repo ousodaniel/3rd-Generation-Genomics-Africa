@@ -1,4 +1,4 @@
-# 3rd-Generation-Genomics-Africa
+# Third-generation genomics and bioinformatics for agribiosciences in Africa
 Repository for the fellowship on 3rd Generation Genomics hosted at ILRI, Nairobi.
 
 ## Introduction
