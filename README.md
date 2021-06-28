@@ -13,7 +13,37 @@ The training is designed in three phases, the first two phases being residential
 
 ***Deploy phase***: during this last phase of the training, the trainees will return to their home institution, where they will launch a small third-generation genomics unit and implement a research project to address agricultural challenges with direct relevance to their home country or region. Wherever possible, this project will be integrated into research partnerships with ILRI or another OneCGIAR institute in the home country. Trainees will benefit from the support of highly experienced mentors from the BecA-ILRI Hub, its UK-based partners, and the One CGIAR consortium. The participants are also expected to be agents of change to grow genomics and bioinformatics capacity at their institutions.
 
-<p> <center> <strong> Collaborators and Sponsors </strong> </center> </p>
+## Modules and Sessions
+- [ ] ***Module 1***: Unix/Linux programming - proficiency with the command line (14th - 25th of June, excluding weekends)
 
-:-------------------------:|:-------------------------:| ---------------------------:|:---------------------------:|-----------------:
-![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/ilri.jpg)  |  ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/beca.jpg) | ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/jic.png) | ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/earlham.png)
+- [ ] ***Module 1***: Unix/Linux programming - proficiency with the command line (14th - 25th of June, excluding weekends)
+
+- [ ] ***Module 2***: Python programming (28th of June - 8th of July, excluding weekends)
+
+- [ ] ***Module 3***: Molecular biology - DNA extraction protocols, purification, QC (12th - 14th of July)
+
+- [ ] ***Module 4***: 2nd and 3rd generation sequencing platforms (15th - 16th of July)
+
+- [ ] ***Module 5***: Nanopore library prep (19th - 20th of July)
+
+- [ ] ***Module 6***: Theory and practice of genome/transcriptome assembly (21st - 27th of July, excluding weekends)
+
+- [ ] ***Module 7***: Genome annotation (28th - 30th of July)
+
+- [ ] ***Soft Skill Workshop***: communication and project management (9th of July)Module 2: Python programming (28th of June - 8th of July, excluding weekends)
+
+- [ ] ***Module 3***: Molecular biology - DNA extraction protocols, purification, QC (12th - 14th of July)
+
+- [ ] ***Module 4***: 2nd and 3rd generation sequencing platforms (15th - 16th of July)
+
+- [ ] ***Module 5***: Nanopore library prep (19th - 20th of July)
+
+- [ ] ***Module 6***: Theory and practice of genome/transcriptome assembly (21st - 27th of July, excluding weekends)
+
+- [ ] ***Module 7***: Genome annotation (28th - 30th of July)
+
+- [ ] ***Soft Skill Workshop***: communication and project management (9th of July)
+## Collaborators and Sponsors
+
+![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/ilri.jpeg) ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/jic.png) ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/earlham.png) ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/beca.jpg) 
+
