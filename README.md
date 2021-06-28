@@ -16,4 +16,4 @@ The training is designed in three phases, the first two phases being residential
 <p> <center> <strong> Collaborators and Sponsors </strong> </center> </p>
 
 :-------------------------:|:-------------------------:| ---------------------------:|:---------------------------:|-----------------:
-![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/Images/ilri.jpeg)  |  ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/Images/beca.jpeg) | ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/Images/jic.png) | ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/Images/earlham.png) | ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/Images/acacia)
+![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/ilri.jpg)  |  ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/beca.jpg) | ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/jic.png) | ![](https://github.com/ousodaniel/3rd-Generation-Genomics-Africa/blob/main/Images/earlham.png)
