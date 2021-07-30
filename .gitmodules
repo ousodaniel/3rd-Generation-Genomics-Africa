@@ -1,0 +1,12 @@
+[submodule "Genome_Workshop"]
+	path = Genome_Workshop
+	url = https://github.com/surtlab/Genome_Workshop.git
+[submodule "Workshop_Annotation_2021"]
+	path = Workshop_Annotation_2021
+	url = https://github.com/stajichlab/Workshop_Annotation_2021.git
+[submodule "unix-commandline-guide"]
+	path = unix-commandline-guide
+	url = https://github.com/jean-baka/unix-commandline-guide.git
+[submodule "Python_Intro_ANU_RSB"]
+	path = Python_Intro_ANU_RSB
+	url = https://github.com/megancamilla/Python_Intro_ANU_RSB
