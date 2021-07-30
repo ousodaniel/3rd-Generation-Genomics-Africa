@@ -10,3 +10,6 @@
 [submodule "Python_Intro_ANU_RSB"]
 	path = Python_Intro_ANU_RSB
 	url = https://github.com/megancamilla/Python_Intro_ANU_RSB
+[submodule "bixcop-2021-python"]
+	path = bixcop-2021-python
+	url = https://github.com/ajodeh-juma/bixcop-2021-python
